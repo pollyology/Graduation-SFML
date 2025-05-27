@@ -63,3 +63,29 @@ To build or debug **Graduation** from source using Visual Studio:
 3. **Additional Dependencies:**  
    *(Paste this at the beginning of the list)*  
    `sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-audio-d.lib;`
+
+# 🎨 Credits
+
+- **Image: Twilight Sparkle Graduate**  
+  Artwork by [**AndoAnimalia**](https://www.deviantart.com/andoanimalia/art/Twilight-Sparkle-Graduate-751198353) on DeviantArt  
+  > Traced from *My Little Pony: Friendship is Magic*, Season 8 Episode 12: "Marks for Effort."  
+  > *My Little Pony: Friendship is Magic* created by **Lauren Faust** and owned by **Hasbro**.  
+  > Used in this project with attribution for non-commercial, fan-made purposes.
+
+- **Font: Celsius Flower**  
+  By [**Typehill Studio**](https://www.dafont.com/celsius-flower.font) on DaFont  
+  > Free for personal use.  
+  > Visit [creativefabrica.com](https://www.creativefabrica.com](https://www.creativefabrica.com/designer/typehill/ref/84770/)) for commercial licensing and more fonts.
+
+- **Music: "Remember Summer Days"**  
+  By **Anri** — from the 1983 album *Timely!!*  
+  [Listen on YouTube](https://www.youtube.com/watch?v=yHKb38-nl3U)  
+  > Included in this project for tribute and personal use only.  
+  > All rights belong to the original artist and copyright holders.
+
+---
+
+## ✅ Legal Note
+
+This project is a **fan-made digital graduation card** and is **not affiliated with Hasbro, Anri, or Typehill Studio**.  
+All media belong to their respective owners. Shared here with respect and proper attribution.
