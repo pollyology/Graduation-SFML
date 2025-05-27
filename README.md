@@ -1,5 +1,5 @@
 
-# My Little Diploma -🎓 Friendship is Graduation!
+# My Little Diploma 🦄✨: 🎓 Friendship is Graduation!
 
 ![alt text](assets/images/Graduation_Demo.png)
 
